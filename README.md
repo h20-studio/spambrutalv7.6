@@ -1,7 +1,9 @@
-# SPAM BRUTAL V2
+# SPAM BRUTAL V2 (Whatsapp,SMS)
 ```
 Tools ini dibuat untuk ngerjain
 Ripper atau nyepam Mantan Lu 😅😅😅
+lebih brutal dengan otp terbanyak
+1 hari bisa ribuan pesan
 ```
 > Script ini sewaktu-waktu bisa jadi limit ataupun coid bisa hubungi creator
 ## CARA INSTALL?
@@ -11,8 +13,8 @@ $ apt upgrade
 $ apt update
 $ pkg update
 $ pkg upgrade
-$ pkg install git
 $ pkg install pip
+$ pkg install git
 $ pkg install curl
 $ pkg install python
 $ pkg install python2
