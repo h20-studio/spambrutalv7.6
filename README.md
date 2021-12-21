@@ -13,6 +13,7 @@ $ apt upgrade
 $ apt update
 $ pkg update
 $ pkg upgrade
+$ pkg install jq
 $ pkg install pip
 $ pkg install git
 $ pkg install curl
