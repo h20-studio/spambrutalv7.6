@@ -1,7 +1,5 @@
-# SPAM BRUTAL V3 (Whatsapp,SMS)
+# SPAM BRUTAL V5.2 (Whatsapp,SMS)
 ```
-Tools ini dibuat untuk ngerjain
-Ripper atau nyepam Mantan Lu 😅😅😅
 lebih brutal dengan otp terbanyak
 1 hari bisa ribuan pesan
 ```
